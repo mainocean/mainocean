@@ -4,6 +4,16 @@
   </a>
 </p>
 
+
+<h3 align="center">
+Hello There, I'm Alex Kochenko 👋
+</h3>
+
+<p align="center">
+<a href="https://github.com/mainocean/mainocean"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=DevOps+Engineer+%2F+Cloud+Enthusiast;Experience+in+Cloud+Computing;AWS+Cloud+Practitioner"></a>
+</p>
+
+
 ### About Me
 
 
@@ -18,6 +28,9 @@
 <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
 </div>
+
+
+
 
 
 ### Languages, Tools, and Skills 🛠
@@ -40,6 +53,7 @@
 <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira" />
 <img src="https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="confluence" />
 </div>
+
 
 ### GitHub Stats 📈
 <div align="center">
