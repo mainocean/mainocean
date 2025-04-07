@@ -6,7 +6,7 @@
 
 
 <h3 align="center">
-Hello There, I'm Alex Kochenko 👋
+Hello There, I'm Alex Korchenko 👋
 </h3>
 
 <p align="center">
