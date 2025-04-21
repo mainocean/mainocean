@@ -21,7 +21,7 @@ Hello There, I'm Alex Korchenko 👋
 <a href="https:///">
 <img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
 </a>
-<a href="https://www.linkedin.com/in/alex-kochenko-732900177/">
+<a href="https://www.linkedin.com/in/alex-korchenko-732900177/">
 <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 <a href="mailto:alex.korchenko@proton.me">
