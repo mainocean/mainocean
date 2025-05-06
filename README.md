@@ -24,7 +24,7 @@ Hello There, I'm Alex Korchenko 👋
 <a href="https://www.linkedin.com/in/alex-korchenko-732900177/">
 <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
-<a href="mailto:alex.korchenko@proton.me">
+<a href="mailto:alex.korchenko@proton.me?subject=Hi,%20Alex.%20I've%20been%20looking%20through%20your%20GitHub%20and%20want%20to%20continue%20the%20conversation.&bcc=mainoceanm@gmail.com&body=Hi,%20Alex.%20I've%20been%20looking%20through%20your%20GitHub%20and%20want%20to%20continue%20the%20conversation.">
 <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
 </div>
