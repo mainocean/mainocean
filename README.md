@@ -18,7 +18,7 @@ Hello There, I'm Alex Korchenko 👋
 
 
 <div align="center">
-<a href="https:///">
+<a href="https://www.linkedin.com/in/alex-korchenko-732900177/details/experience/2239251331/multiple-media-viewer/?profileId=ACoAACn1YBYBgycVP6BzGDJU8sS8c8c_lq6bnn4&treasuryMediaId=1723047260432">
 <img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/alex-korchenko-732900177/">
